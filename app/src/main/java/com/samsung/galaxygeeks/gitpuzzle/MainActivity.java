@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         imageView4.setImageResource(R.drawable.blue_building);
 
         ImageView imageView5 = findViewById(R.id.imageView5);
-        imageView5.setImageResource(R.drawable.blue_building);
+        imageView5.setImageResource(R.drawable.estaciores);
 
         ImageView imageView6 = findViewById(R.id.imageView6);
         imageView6.setImageResource(R.drawable.balcony);
